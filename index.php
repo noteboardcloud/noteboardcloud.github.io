@@ -3,7 +3,7 @@
     <title>Noteboard Cloud</title>
   </head>
   <body>
-    include('header.php');
+    <?php include('header.php'); ?>
     <div  class = 'header'> Noteboard Cloud <img src="Logo.png" alt="Logo" height="200" width="200">
       <br> Home  |  <a href = '/pricing'> Pricing </a> |  Support  |  Sign in  |  Sign up</div>
     <h1> Noteboard Cloud's website </h1>
